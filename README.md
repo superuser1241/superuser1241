@@ -30,7 +30,7 @@
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=FFFFFF)
 
-![Compact Card](https://github-readme-stats.vercel.app/api/top-langs/?username=superuser1241&layout=compact)
+![Compact Card](https://github-readme-stats.vercel.app/api/top-langs/?username=superuser1241&layout=compact&hide=html)
 
 ![superuser GitHub stats](https://github-readme-stats.vercel.app/api?username=superuser1241&show_icons=true&theme=radical)
 
