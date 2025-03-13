@@ -31,5 +31,4 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=FFFFFF)
 
 ![Compact Card](https://github-readme-stats.vercel.app/api/top-langs/?username=superuser1241&layout=compact&hide=html)
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitneyraye)](https://solved.ac/whitneyraye/)
