@@ -32,6 +32,4 @@
 
 ![Compact Card](https://github-readme-stats.vercel.app/api/top-langs/?username=superuser1241&layout=compact&hide=html)
 
-![superuser GitHub stats](https://github-readme-stats.vercel.app/api?username=superuser1241&show_icons=true&theme=radical)
-
 
